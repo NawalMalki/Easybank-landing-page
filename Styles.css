@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;700&display=swap');
+
+*{
+    font-family: 'Public Sans', sans-serif;
+}
+.w-custom {
+    width: 520px;
+  }
+
+
+  .h-custom{
+    height: 200px;
+    
+  }
+
+  .Side{
+    position: fixed;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  }
+
+
+
+  #Menu:active .Side{
+    display: block;
+  }
+
+  
