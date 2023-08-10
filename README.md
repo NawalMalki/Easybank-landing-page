@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
+![image](https://github.com/NawalMalki/Challenge10-FrontEndMentor/assets/114352448/3c2a5174-eb95-48a7-8a91-5df556908cb2)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click here to check it out](https://challenge10-front-end-mentor.vercel.app/)
 
 ## My process
 
