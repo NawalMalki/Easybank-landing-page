@@ -1,7 +1,12 @@
-const HamburgerMenu = document.querySelector(".Menu");
-const Menu = document.querySelector(".Side"); 
+const hamburgerToggle = document.querySelector(".Menu");
+const mobileNav = document.querySelector(".Side");
+const Hide = document.querySelector(".hide"); 
 
-
-HamburgerMenu.addEventListener("click", function() {
-    Menu.style.display = "block";
+hamburgerToggle.addEventListener("click", function () {
+    mobileNav.style.display = "block";
 });
+
+
+Hide.addEventListener("click" , function(){
+    mobileNav.style.display = "none"; 
+})
