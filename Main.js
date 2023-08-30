@@ -1,12 +1,12 @@
-const hamburgerToggle = document.querySelector(".Menu");
-const mobileNav = document.querySelector(".Side");
-const Hide = document.querySelector(".hide"); 
+const hamburgerToggle = document.querySelector(".showmenu");
+const mobileNav = document.querySelector(".Sidemenu");
+const closeMenu = document.querySelector(".closeMenu"); 
 
 hamburgerToggle.addEventListener("click", function () {
     mobileNav.style.display = "block";
 });
 
 
-Hide.addEventListener("click" , function(){
+closeMenu.addEventListener("click" , function(){
     mobileNav.style.display = "none"; 
 })
